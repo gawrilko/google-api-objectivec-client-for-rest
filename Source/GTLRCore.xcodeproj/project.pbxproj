@@ -159,10 +159,10 @@
 		E7E6E1582126CBE5008312B2 /* GTLRDriveQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */; };
 		E7E6E1592126CBE5008312B2 /* GTLRDriveQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */; };
 		E7E6E15A2126CBE5008312B2 /* GTLRDriveQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */; };
-		E7E6E15C2126CC06008312B2 /* GTLRiOSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */; };
-		E7E6E15D2126CC06008312B2 /* GTLRiOSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E7E6E15E2126CC06008312B2 /* GTLRiOSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */; };
-		E7E6E15F2126CC06008312B2 /* GTLRiOSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */; };
+		E7E6E15C2126CC06008312B2 /* GTLR.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLR.h */; };
+		E7E6E15D2126CC06008312B2 /* GTLR.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLR.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7E6E15E2126CC06008312B2 /* GTLR.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLR.h */; };
+		E7E6E15F2126CC06008312B2 /* GTLR.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLR.h */; };
 		F41BA4381E7AD486004F6E95 /* CompiledTestNoARC.m in Sources */ = {isa = PBXBuildFile; fileRef = F41BA4361E7AD482004F6E95 /* CompiledTestNoARC.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F41BA4391E7AD487004F6E95 /* CompiledTestNoARC.m in Sources */ = {isa = PBXBuildFile; fileRef = F41BA4361E7AD482004F6E95 /* CompiledTestNoARC.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F41BA43A1E7AD488004F6E95 /* CompiledTestNoARC.m in Sources */ = {isa = PBXBuildFile; fileRef = F41BA4361E7AD482004F6E95 /* CompiledTestNoARC.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -510,7 +510,7 @@
 		E7E6E13C2126CBE5008312B2 /* GTLRDriveService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLRDriveService.h; sourceTree = "<group>"; };
 		E7E6E13D2126CBE5008312B2 /* GTLRDriveObjects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLRDriveObjects.h; sourceTree = "<group>"; };
 		E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTLRDriveQuery.m; sourceTree = "<group>"; };
-		E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLRiOSCore.h; sourceTree = "<group>"; };
+		E7E6E15B2126CC06008312B2 /* GTLR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLR.h; sourceTree = "<group>"; };
 		F41BA4361E7AD482004F6E95 /* CompiledTestNoARC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompiledTestNoARC.m; path = Tests/CompiledTestNoARC.m; sourceTree = "<group>"; };
 		F4368F721B8233BF00E17643 /* GTLRiOSUnitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GTLRiOSUnitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4469DB41C40229D00BCFAA1 /* GTLR.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GTLR.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -713,7 +713,7 @@
 		32C88E010371C26100C91783 /* GTLR Source */ = {
 			isa = PBXGroup;
 			children = (
-				E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */,
+				E7E6E15B2126CC06008312B2 /* GTLR.h */,
 				E7E6E1372126CBE5008312B2 /* Drive */,
 				4F346DD20D7500C9006033E0 /* Common */,
 			);
@@ -953,7 +953,7 @@
 				E7E6E1432126CBE5008312B2 /* GTLRDrive.h in Headers */,
 				4F934E671512712100C4EA34 /* GTLRBase64.h in Headers */,
 				4FEE17B51C03DB5900A38758 /* GTMSessionFetcher.h in Headers */,
-				E7E6E15C2126CC06008312B2 /* GTLRiOSCore.h in Headers */,
+				E7E6E15C2126CC06008312B2 /* GTLR.h in Headers */,
 				4FEE17BF1C03DB5900A38758 /* GTMSessionFetcherService.h in Headers */,
 				4FEE17C41C03DB5900A38758 /* GTMSessionUploadFetcher.h in Headers */,
 				4FEE17BA1C03DB5900A38758 /* GTMSessionFetcherLogging.h in Headers */,
@@ -968,11 +968,11 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7E6E15D2126CC06008312B2 /* GTLR.h in Headers */,
 				E7E6E1442126CBE5008312B2 /* GTLRDrive.h in Headers */,
 				E7E6E14C2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */,
 				E7E6E1502126CBE5008312B2 /* GTLRDriveService.h in Headers */,
 				E7E6E1542126CBE5008312B2 /* GTLRDriveObjects.h in Headers */,
-				E7E6E15D2126CC06008312B2 /* GTLRiOSCore.h in Headers */,
 				F4469D7B1C40229D00BCFAA1 /* GTLRDefines.h in Headers */,
 				F4469D7C1C40229D00BCFAA1 /* GTLRFramework.h in Headers */,
 				F4469D7F1C40229D00BCFAA1 /* GTLRUtilities.h in Headers */,
@@ -1021,7 +1021,7 @@
 				E7E6E1452126CBE5008312B2 /* GTLRDrive.h in Headers */,
 				F4A872461DAD1D6000D69E09 /* GTLRDefines.h in Headers */,
 				F4A872521DAD1D6E00D69E09 /* GTLRFramework.h in Headers */,
-				E7E6E15E2126CC06008312B2 /* GTLRiOSCore.h in Headers */,
+				E7E6E15E2126CC06008312B2 /* GTLR.h in Headers */,
 				F4A8725C1DAD1DD000D69E09 /* GTMReadMonitorInputStream.h in Headers */,
 				F4A872481DAD1D6000D69E09 /* GTLRBatchResult.h in Headers */,
 				F4A8724E1DAD1D6000D69E09 /* GTLRRuntimeCommon.h in Headers */,
@@ -1055,7 +1055,7 @@
 				E7E6E1462126CBE5008312B2 /* GTLRDrive.h in Headers */,
 				F4B18FAF1F10035400E55018 /* GTLRDefines.h in Headers */,
 				F4B18FB01F10035400E55018 /* GTLRFramework.h in Headers */,
-				E7E6E15F2126CC06008312B2 /* GTLRiOSCore.h in Headers */,
+				E7E6E15F2126CC06008312B2 /* GTLR.h in Headers */,
 				F4B18FB21F10035400E55018 /* GTMReadMonitorInputStream.h in Headers */,
 				F4B18FB31F10035400E55018 /* GTLRBatchResult.h in Headers */,
 				F4B18FB41F10035400E55018 /* GTLRRuntimeCommon.h in Headers */,
