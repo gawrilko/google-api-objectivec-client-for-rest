@@ -131,6 +131,38 @@
 		4FEE17CE1C03DB9E00A38758 /* GTMHTTPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FEE17CA1C03DB9E00A38758 /* GTMHTTPServer.m */; };
 		4FEE17CF1C03DB9E00A38758 /* GTMSessionFetcherTestServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FEE17CC1C03DB9E00A38758 /* GTMSessionFetcherTestServer.m */; };
 		4FEE17D01C03DB9E00A38758 /* GTMSessionFetcherTestServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FEE17CC1C03DB9E00A38758 /* GTMSessionFetcherTestServer.m */; };
+		E7E6E13F2126CBE5008312B2 /* GTLRDriveService.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E1382126CBE5008312B2 /* GTLRDriveService.m */; };
+		E7E6E1402126CBE5008312B2 /* GTLRDriveService.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E1382126CBE5008312B2 /* GTLRDriveService.m */; };
+		E7E6E1412126CBE5008312B2 /* GTLRDriveService.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E1382126CBE5008312B2 /* GTLRDriveService.m */; };
+		E7E6E1422126CBE5008312B2 /* GTLRDriveService.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E1382126CBE5008312B2 /* GTLRDriveService.m */; };
+		E7E6E1432126CBE5008312B2 /* GTLRDrive.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E1392126CBE5008312B2 /* GTLRDrive.h */; };
+		E7E6E1442126CBE5008312B2 /* GTLRDrive.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E1392126CBE5008312B2 /* GTLRDrive.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7E6E1452126CBE5008312B2 /* GTLRDrive.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E1392126CBE5008312B2 /* GTLRDrive.h */; };
+		E7E6E1462126CBE5008312B2 /* GTLRDrive.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E1392126CBE5008312B2 /* GTLRDrive.h */; };
+		E7E6E1472126CBE5008312B2 /* GTLRDriveObjects.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13A2126CBE5008312B2 /* GTLRDriveObjects.m */; };
+		E7E6E1482126CBE5008312B2 /* GTLRDriveObjects.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13A2126CBE5008312B2 /* GTLRDriveObjects.m */; };
+		E7E6E1492126CBE5008312B2 /* GTLRDriveObjects.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13A2126CBE5008312B2 /* GTLRDriveObjects.m */; };
+		E7E6E14A2126CBE5008312B2 /* GTLRDriveObjects.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13A2126CBE5008312B2 /* GTLRDriveObjects.m */; };
+		E7E6E14B2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13B2126CBE5008312B2 /* GTLRDriveQuery.h */; };
+		E7E6E14C2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13B2126CBE5008312B2 /* GTLRDriveQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7E6E14D2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13B2126CBE5008312B2 /* GTLRDriveQuery.h */; };
+		E7E6E14E2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13B2126CBE5008312B2 /* GTLRDriveQuery.h */; };
+		E7E6E14F2126CBE5008312B2 /* GTLRDriveService.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13C2126CBE5008312B2 /* GTLRDriveService.h */; };
+		E7E6E1502126CBE5008312B2 /* GTLRDriveService.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13C2126CBE5008312B2 /* GTLRDriveService.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7E6E1512126CBE5008312B2 /* GTLRDriveService.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13C2126CBE5008312B2 /* GTLRDriveService.h */; };
+		E7E6E1522126CBE5008312B2 /* GTLRDriveService.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13C2126CBE5008312B2 /* GTLRDriveService.h */; };
+		E7E6E1532126CBE5008312B2 /* GTLRDriveObjects.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13D2126CBE5008312B2 /* GTLRDriveObjects.h */; };
+		E7E6E1542126CBE5008312B2 /* GTLRDriveObjects.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13D2126CBE5008312B2 /* GTLRDriveObjects.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7E6E1552126CBE5008312B2 /* GTLRDriveObjects.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13D2126CBE5008312B2 /* GTLRDriveObjects.h */; };
+		E7E6E1562126CBE5008312B2 /* GTLRDriveObjects.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E13D2126CBE5008312B2 /* GTLRDriveObjects.h */; };
+		E7E6E1572126CBE5008312B2 /* GTLRDriveQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */; };
+		E7E6E1582126CBE5008312B2 /* GTLRDriveQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */; };
+		E7E6E1592126CBE5008312B2 /* GTLRDriveQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */; };
+		E7E6E15A2126CBE5008312B2 /* GTLRDriveQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */; };
+		E7E6E15C2126CC06008312B2 /* GTLRiOSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */; };
+		E7E6E15D2126CC06008312B2 /* GTLRiOSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7E6E15E2126CC06008312B2 /* GTLRiOSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */; };
+		E7E6E15F2126CC06008312B2 /* GTLRiOSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */; };
 		F41BA4381E7AD486004F6E95 /* CompiledTestNoARC.m in Sources */ = {isa = PBXBuildFile; fileRef = F41BA4361E7AD482004F6E95 /* CompiledTestNoARC.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F41BA4391E7AD487004F6E95 /* CompiledTestNoARC.m in Sources */ = {isa = PBXBuildFile; fileRef = F41BA4361E7AD482004F6E95 /* CompiledTestNoARC.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F41BA43A1E7AD488004F6E95 /* CompiledTestNoARC.m in Sources */ = {isa = PBXBuildFile; fileRef = F41BA4361E7AD482004F6E95 /* CompiledTestNoARC.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -471,6 +503,14 @@
 		4FEE17CA1C03DB9E00A38758 /* GTMHTTPServer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTMHTTPServer.m; path = UnitTests/GTMHTTPServer.m; sourceTree = "<group>"; };
 		4FEE17CB1C03DB9E00A38758 /* GTMSessionFetcherTestServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GTMSessionFetcherTestServer.h; path = UnitTests/GTMSessionFetcherTestServer.h; sourceTree = "<group>"; };
 		4FEE17CC1C03DB9E00A38758 /* GTMSessionFetcherTestServer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTMSessionFetcherTestServer.m; path = UnitTests/GTMSessionFetcherTestServer.m; sourceTree = "<group>"; };
+		E7E6E1382126CBE5008312B2 /* GTLRDriveService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTLRDriveService.m; sourceTree = "<group>"; };
+		E7E6E1392126CBE5008312B2 /* GTLRDrive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLRDrive.h; sourceTree = "<group>"; };
+		E7E6E13A2126CBE5008312B2 /* GTLRDriveObjects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTLRDriveObjects.m; sourceTree = "<group>"; };
+		E7E6E13B2126CBE5008312B2 /* GTLRDriveQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLRDriveQuery.h; sourceTree = "<group>"; };
+		E7E6E13C2126CBE5008312B2 /* GTLRDriveService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLRDriveService.h; sourceTree = "<group>"; };
+		E7E6E13D2126CBE5008312B2 /* GTLRDriveObjects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLRDriveObjects.h; sourceTree = "<group>"; };
+		E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTLRDriveQuery.m; sourceTree = "<group>"; };
+		E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTLRiOSCore.h; sourceTree = "<group>"; };
 		F41BA4361E7AD482004F6E95 /* CompiledTestNoARC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompiledTestNoARC.m; path = Tests/CompiledTestNoARC.m; sourceTree = "<group>"; };
 		F4368F721B8233BF00E17643 /* GTLRiOSUnitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GTLRiOSUnitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4469DB41C40229D00BCFAA1 /* GTLR.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GTLR.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -673,6 +713,8 @@
 		32C88E010371C26100C91783 /* GTLR Source */ = {
 			isa = PBXGroup;
 			children = (
+				E7E6E15B2126CC06008312B2 /* GTLRiOSCore.h */,
+				E7E6E1372126CBE5008312B2 /* Drive */,
 				4F346DD20D7500C9006033E0 /* Common */,
 			);
 			name = "GTLR Source";
@@ -824,6 +866,21 @@
 			name = Data;
 			sourceTree = "<group>";
 		};
+		E7E6E1372126CBE5008312B2 /* Drive */ = {
+			isa = PBXGroup;
+			children = (
+				E7E6E1382126CBE5008312B2 /* GTLRDriveService.m */,
+				E7E6E1392126CBE5008312B2 /* GTLRDrive.h */,
+				E7E6E13A2126CBE5008312B2 /* GTLRDriveObjects.m */,
+				E7E6E13B2126CBE5008312B2 /* GTLRDriveQuery.h */,
+				E7E6E13C2126CBE5008312B2 /* GTLRDriveService.h */,
+				E7E6E13D2126CBE5008312B2 /* GTLRDriveObjects.h */,
+				E7E6E13E2126CBE5008312B2 /* GTLRDriveQuery.m */,
+			);
+			name = Drive;
+			path = GeneratedServices/Drive;
+			sourceTree = "<group>";
+		};
 		F4469DC31C40285700BCFAA1 /* OS X Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -882,16 +939,21 @@
 				4FDE224113848173005AEFAA /* GTLRUtilities.h in Headers */,
 				4FDE22611384818E005AEFAA /* GTLRBatchQuery.h in Headers */,
 				4FDE22631384818E005AEFAA /* GTLRBatchResult.h in Headers */,
+				E7E6E14F2126CBE5008312B2 /* GTLRDriveService.h in Headers */,
 				F4D9D51F1D832DB5000EBBED /* GTLRDuration.h in Headers */,
 				4FDE22651384818E005AEFAA /* GTLRDateTime.h in Headers */,
+				E7E6E14B2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */,
 				4FDE22671384818E005AEFAA /* GTLRErrorObject.h in Headers */,
 				4FDE22691384818E005AEFAA /* GTLRObject.h in Headers */,
 				4FDE226B1384818E005AEFAA /* GTLRQuery.h in Headers */,
 				4FDE226D1384818E005AEFAA /* GTLRRuntimeCommon.h in Headers */,
+				E7E6E1532126CBE5008312B2 /* GTLRDriveObjects.h in Headers */,
 				4FDE226F1384818E005AEFAA /* GTLRService.h in Headers */,
 				4F0C4FBC13CFA7E5007E5E92 /* GTLRUploadParameters.h in Headers */,
+				E7E6E1432126CBE5008312B2 /* GTLRDrive.h in Headers */,
 				4F934E671512712100C4EA34 /* GTLRBase64.h in Headers */,
 				4FEE17B51C03DB5900A38758 /* GTMSessionFetcher.h in Headers */,
+				E7E6E15C2126CC06008312B2 /* GTLRiOSCore.h in Headers */,
 				4FEE17BF1C03DB5900A38758 /* GTMSessionFetcherService.h in Headers */,
 				4FEE17C41C03DB5900A38758 /* GTMSessionUploadFetcher.h in Headers */,
 				4FEE17BA1C03DB5900A38758 /* GTMSessionFetcherLogging.h in Headers */,
@@ -906,6 +968,11 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7E6E1442126CBE5008312B2 /* GTLRDrive.h in Headers */,
+				E7E6E14C2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */,
+				E7E6E1502126CBE5008312B2 /* GTLRDriveService.h in Headers */,
+				E7E6E1542126CBE5008312B2 /* GTLRDriveObjects.h in Headers */,
+				E7E6E15D2126CC06008312B2 /* GTLRiOSCore.h in Headers */,
 				F4469D7B1C40229D00BCFAA1 /* GTLRDefines.h in Headers */,
 				F4469D7C1C40229D00BCFAA1 /* GTLRFramework.h in Headers */,
 				F4469D7F1C40229D00BCFAA1 /* GTLRUtilities.h in Headers */,
@@ -940,16 +1007,21 @@
 				F4A872591DAD1DD000D69E09 /* GTMSessionUploadFetcher.h in Headers */,
 				F4A8724F1DAD1D6000D69E09 /* GTLRService.h in Headers */,
 				F4A872501DAD1D6000D69E09 /* GTLRUploadParameters.h in Headers */,
+				E7E6E1512126CBE5008312B2 /* GTLRDriveService.h in Headers */,
 				F4A8724C1DAD1D6000D69E09 /* GTLRObject.h in Headers */,
 				F4A872531DAD1D6E00D69E09 /* GTLRURITemplate.h in Headers */,
+				E7E6E14D2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */,
 				F4A8725A1DAD1DD000D69E09 /* GTMGatherInputStream.h in Headers */,
 				F4A872561DAD1DD000D69E09 /* GTMSessionFetcher.h in Headers */,
 				F4A872571DAD1DD000D69E09 /* GTMSessionFetcherService.h in Headers */,
 				F4A872511DAD1D6E00D69E09 /* GTLRBase64.h in Headers */,
+				E7E6E1552126CBE5008312B2 /* GTLRDriveObjects.h in Headers */,
 				F4A8725B1DAD1DD000D69E09 /* GTMMIMEDocument.h in Headers */,
 				F4A8724A1DAD1D6000D69E09 /* GTLRDuration.h in Headers */,
+				E7E6E1452126CBE5008312B2 /* GTLRDrive.h in Headers */,
 				F4A872461DAD1D6000D69E09 /* GTLRDefines.h in Headers */,
 				F4A872521DAD1D6E00D69E09 /* GTLRFramework.h in Headers */,
+				E7E6E15E2126CC06008312B2 /* GTLRiOSCore.h in Headers */,
 				F4A8725C1DAD1DD000D69E09 /* GTMReadMonitorInputStream.h in Headers */,
 				F4A872481DAD1D6000D69E09 /* GTLRBatchResult.h in Headers */,
 				F4A8724E1DAD1D6000D69E09 /* GTLRRuntimeCommon.h in Headers */,
@@ -969,16 +1041,21 @@
 				F4B18F961F10035400E55018 /* GTMSessionUploadFetcher.h in Headers */,
 				F4B18F971F10035400E55018 /* GTLRService.h in Headers */,
 				F4B18F991F10035400E55018 /* GTLRUploadParameters.h in Headers */,
+				E7E6E1522126CBE5008312B2 /* GTLRDriveService.h in Headers */,
 				F4B18F9E1F10035400E55018 /* GTLRObject.h in Headers */,
 				F4B18FA11F10035400E55018 /* GTLRURITemplate.h in Headers */,
+				E7E6E14E2126CBE5008312B2 /* GTLRDriveQuery.h in Headers */,
 				F4B18FA31F10035400E55018 /* GTMGatherInputStream.h in Headers */,
 				F4B18FA51F10035400E55018 /* GTMSessionFetcher.h in Headers */,
 				F4B18FA61F10035400E55018 /* GTMSessionFetcherService.h in Headers */,
 				F4B18FA81F10035400E55018 /* GTLRBase64.h in Headers */,
+				E7E6E1562126CBE5008312B2 /* GTLRDriveObjects.h in Headers */,
 				F4B18FAA1F10035400E55018 /* GTMMIMEDocument.h in Headers */,
 				F4B18FAC1F10035400E55018 /* GTLRDuration.h in Headers */,
+				E7E6E1462126CBE5008312B2 /* GTLRDrive.h in Headers */,
 				F4B18FAF1F10035400E55018 /* GTLRDefines.h in Headers */,
 				F4B18FB01F10035400E55018 /* GTLRFramework.h in Headers */,
+				E7E6E15F2126CC06008312B2 /* GTLRiOSCore.h in Headers */,
 				F4B18FB21F10035400E55018 /* GTMReadMonitorInputStream.h in Headers */,
 				F4B18FB31F10035400E55018 /* GTLRBatchResult.h in Headers */,
 				F4B18FB41F10035400E55018 /* GTLRRuntimeCommon.h in Headers */,
@@ -1375,11 +1452,14 @@
 				4FEE17B61C03DB5900A38758 /* GTMSessionFetcher.m in Sources */,
 				F4D9D5201D832DB5000EBBED /* GTLRDuration.m in Sources */,
 				4FEE17C01C03DB5900A38758 /* GTMSessionFetcherService.m in Sources */,
+				E7E6E13F2126CBE5008312B2 /* GTLRDriveService.m in Sources */,
 				4FEE17BB1C03DB5900A38758 /* GTMSessionFetcherLogging.m in Sources */,
 				4FEE17C51C03DB5900A38758 /* GTMSessionUploadFetcher.m in Sources */,
 				4FEE17A71C03DB5900A38758 /* GTMGatherInputStream.m in Sources */,
 				4FEE17B11C03DB5900A38758 /* GTMReadMonitorInputStream.m in Sources */,
+				E7E6E1572126CBE5008312B2 /* GTLRDriveQuery.m in Sources */,
 				4FEE17AC1C03DB5900A38758 /* GTMMIMEDocument.m in Sources */,
+				E7E6E1472126CBE5008312B2 /* GTLRDriveObjects.m in Sources */,
 				F4469DF51C45736100BCFAA1 /* GTLRURITemplate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1447,11 +1527,14 @@
 				F4469DA71C40229D00BCFAA1 /* GTMSessionFetcher.m in Sources */,
 				F4D9D5291D833D7C000EBBED /* GTLRDuration.m in Sources */,
 				F4469DA81C40229D00BCFAA1 /* GTMSessionFetcherService.m in Sources */,
+				E7E6E1402126CBE5008312B2 /* GTLRDriveService.m in Sources */,
 				F4469DA91C40229D00BCFAA1 /* GTMSessionFetcherLogging.m in Sources */,
 				F4469DAA1C40229D00BCFAA1 /* GTMSessionUploadFetcher.m in Sources */,
 				F4469DAB1C40229D00BCFAA1 /* GTMGatherInputStream.m in Sources */,
 				F4469DAC1C40229D00BCFAA1 /* GTMReadMonitorInputStream.m in Sources */,
+				E7E6E1582126CBE5008312B2 /* GTLRDriveQuery.m in Sources */,
 				F4469DAD1C40229D00BCFAA1 /* GTMMIMEDocument.m in Sources */,
+				E7E6E1482126CBE5008312B2 /* GTLRDriveObjects.m in Sources */,
 				F4469DFA1C45742000BCFAA1 /* GTLRURITemplate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1475,11 +1558,14 @@
 				F4A872651DAD1E3D00D69E09 /* GTLRQuery.m in Sources */,
 				F4A8726F1DAD1EAD00D69E09 /* GTMSessionFetcherLogging.m in Sources */,
 				F4A872731DAD1EAD00D69E09 /* GTMReadMonitorInputStream.m in Sources */,
+				E7E6E1412126CBE5008312B2 /* GTLRDriveService.m in Sources */,
 				F4A8725F1DAD1E3D00D69E09 /* GTLRBatchQuery.m in Sources */,
 				F4A8726A1DAD1E3D00D69E09 /* GTLRFramework.m in Sources */,
 				F4A8726D1DAD1EAD00D69E09 /* GTMSessionFetcher.m in Sources */,
 				F4A8726C1DAD1E3D00D69E09 /* GTLRUtilities.m in Sources */,
+				E7E6E1592126CBE5008312B2 /* GTLRDriveQuery.m in Sources */,
 				F4A872631DAD1E3D00D69E09 /* GTLRErrorObject.m in Sources */,
+				E7E6E1492126CBE5008312B2 /* GTLRDriveObjects.m in Sources */,
 				F4A872681DAD1E3D00D69E09 /* GTLRUploadParameters.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1545,11 +1631,14 @@
 				F4B18FCF1F10035400E55018 /* GTLRQuery.m in Sources */,
 				F4B18FD01F10035400E55018 /* GTMSessionFetcherLogging.m in Sources */,
 				F4B18FD21F10035400E55018 /* GTMReadMonitorInputStream.m in Sources */,
+				E7E6E1422126CBE5008312B2 /* GTLRDriveService.m in Sources */,
 				F4B18FD31F10035400E55018 /* GTLRBatchQuery.m in Sources */,
 				F4B18FD61F10035400E55018 /* GTLRFramework.m in Sources */,
 				F4B18FD71F10035400E55018 /* GTMSessionFetcher.m in Sources */,
 				F4B18FD81F10035400E55018 /* GTLRUtilities.m in Sources */,
+				E7E6E15A2126CBE5008312B2 /* GTLRDriveQuery.m in Sources */,
 				F4B18FD91F10035400E55018 /* GTLRErrorObject.m in Sources */,
+				E7E6E14A2126CBE5008312B2 /* GTLRDriveObjects.m in Sources */,
 				F4B18FDB1F10035400E55018 /* GTLRUploadParameters.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
