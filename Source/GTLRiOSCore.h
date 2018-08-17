@@ -29,6 +29,14 @@
 #import "GTLRDriveObjects.h"
 #import "GTLRDriveQuery.h"
 #import "GTLRDriveService.h"
+#import "GTMSessionFetcher.h"
+#import "GTMSessionFetcherService.h"
+#import "GTMSessionUploadFetcher.h"
+#import "GTMSessionFetcherService.h"
+#import "GTMSessionFetcherLogging.h"
+#import "GTMGatherInputStream.h"
+#import "GTMMIMEDocument.h"
+#import "GTMReadMonitorInputStream.h"
 
 FOUNDATION_EXPORT double GoogleAPIClientForRESTVersionNumber;
 FOUNDATION_EXPORT const unsigned char GoogleAPIClientForRESTVersionString[];
